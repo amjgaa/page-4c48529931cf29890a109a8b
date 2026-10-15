@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ddbb6ff3e1.junfawangluo.cn/sitemap.xml
